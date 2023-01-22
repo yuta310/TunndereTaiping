@@ -1,0 +1,10 @@
+body {
+    padding: 40px;
+    font-family: ヒラギノ角ゴ Pro W3;
+    text-align: center;
+}
+
+#target {
+    font-size: 40px;
+    letter-spacing: .2em;
+}
